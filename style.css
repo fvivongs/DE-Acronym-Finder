@@ -21,3 +21,14 @@
 #custom-container {
     width: 30%;
 }
+
+.button {
+    background-color: #005984; /* Blue background */
+    color: white; /* White text */
+    width: 25px;
+    /* padding: 12px 16px; Some padding */
+  }
+
+#icon {
+    padding-top: 10px;
+}
